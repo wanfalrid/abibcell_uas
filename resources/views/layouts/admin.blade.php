@@ -59,7 +59,8 @@
                 </div>
             </nav>
             
-            <div class="absolute bottom-4 left-4 right-4">
+            {{-- Hapus user info dan logout di sidebar bawah --}}
+            {{-- <div class="absolute bottom-4 left-4 right-4">
                 <div class="flex items-center space-x-3 px-4 py-3 bg-gray-700 rounded-lg">
                     <div class="w-8 h-8 bg-blue-500 rounded-full flex items-center justify-center">
                         <i class="fas fa-user text-white text-sm"></i>
@@ -75,7 +76,7 @@
                         </button>
                     </form>
                 </div>
-            </div>
+            </div> --}}
         </div>
 
         <!-- Main Content -->
